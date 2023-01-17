@@ -20,6 +20,7 @@
 ## Techno
 
 - Python
+- Jupyter Notebook
 
 ## Auteur
 
