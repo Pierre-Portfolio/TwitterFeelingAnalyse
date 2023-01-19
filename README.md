@@ -25,6 +25,6 @@
 ## Auteur
 
 - [@Alexandra](https://github.com/AlexandraChuvatin)
-- Axel
+- [@Axel](https://github.com/axelg99)
 - [@Owen](https://github.com/owen974)
 - [@Pierre](https://github.com/Pierre-Portfolio)
